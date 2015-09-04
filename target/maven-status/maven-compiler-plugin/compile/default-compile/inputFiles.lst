@@ -1,4 +1,8 @@
 G:\Github\shippable\src\main\java\com\example\model\Person.java
-G:\Github\shippable\src\main\java\com\example\controller\PersonController.java
+G:\Github\shippable\src\main\java\com\example\controller\IssueController.java
 G:\Github\shippable\src\main\java\com\example\service\PersonServiceImpl.java
+G:\Github\shippable\src\main\java\com\example\model\GitIssues.java
+G:\Github\shippable\src\main\java\com\example\model\GitIssue.java
+G:\Github\shippable\src\main\java\com\example\model\Issue.java
 G:\Github\shippable\src\main\java\com\example\service\PersonService.java
+G:\Github\shippable\src\main\java\com\example\controller\InvalidUrlException.java

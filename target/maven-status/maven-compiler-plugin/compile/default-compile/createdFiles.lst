@@ -1,4 +1,8 @@
-com\example\controller\PersonController.class
 com\example\service\PersonService.class
 com\example\model\Person.class
+com\example\controller\IssueController.class
 com\example\service\PersonServiceImpl.class
+com\example\model\GitIssue.class
+com\example\model\Issue.class
+com\example\model\GitIssues.class
+com\example\controller\InvalidUrlException.class
