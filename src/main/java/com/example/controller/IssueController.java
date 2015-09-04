@@ -84,7 +84,7 @@ private void buildData(int page) {
 		   first++;
 	   }else{
 		   if(diff < MILLIS_PER_WEEK){
-			   second++;
+			   econd++;
 		   }else{
 			   break;
 		   }
