@@ -8,6 +8,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import org.springframework.context.annotation.Scope;
 import org.springframework.http.HttpMethod;
 import org.springframework.http.ResponseEntity;
 import org.springframework.http.converter.HttpMessageConverter;
@@ -29,6 +30,7 @@ import com.example.model.Issue;
 
 
 @Controller
+@Scope("request")
 public class IssueController {
 	private static String gitPublicDomain =  "https://github.com/";
 	private int total;
