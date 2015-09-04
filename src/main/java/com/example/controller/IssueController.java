@@ -27,6 +27,7 @@ import org.springframework.ui.ModelMap;
 import com.example.model.GitIssue;
 import com.example.model.Issue;
 
+
 @Controller
 public class IssueController {
 	private static String gitPublicDomain =  "https://github.com/";
@@ -84,7 +85,7 @@ private void buildData(int page) {
 		   first++;
 	   }else{
 		   if(diff < MILLIS_PER_WEEK){
-			   econd++;
+			   second++;
 		   }else{
 			   break;
 		   }

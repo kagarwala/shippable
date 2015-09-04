@@ -1,0 +1,4 @@
+com\example\model\GitIssue.class
+com\example\controller\IssueController.class
+com\example\model\Issue.class
+com\example\controller\InvalidUrlException.class
